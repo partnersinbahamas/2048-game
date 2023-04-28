@@ -10,3 +10,5 @@ Thechnologies:
 - BEM
 
 [DEMO LINK](https://partnersinbahamas.github.io/2048-game/)
+
+[Reference](https://play2048.co)
